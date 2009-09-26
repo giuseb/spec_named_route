@@ -1,2 +1,1 @@
-This is just a dummy app to find out why the spec fails with a
-"No route matches ..." error 
+This is just a dummy app to find out why the functional test (or the spec) fails with a "No route matches ..." error 
